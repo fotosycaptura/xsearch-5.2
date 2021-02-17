@@ -1,6 +1,6 @@
 
 ---
-[1. Spanish](#spanish)
+[1. Spanish](#spanish)  
 [2. English](#english)
 
 ---
