@@ -1,17 +1,17 @@
 
 ---
-[1. Spanish](#spanish)  
+[1. Spanish](#spanish)
 [2. English](#english)
 
 ---
 
-Este es un script que encontré hace años, y que lo conservé desde entonces. Al día de hoy, que me puse a buscar información no encontré nada relacionado con el autor o el sitio web. 
+## Spanish
 
+>Este es un script que encontré hace años, y que lo conservé desde entonces. Al día de hoy, que me puse a buscar información no encontré nada relacionado con el autor o el sitio web. 
 Dado que es código libre, lo publico por si a alguien le interesa.
 Notar que tanto el correo de contacto como la dirección original no existen. Por si acaso, ya estais advertidos.
-
-## Spanish
 Esta es la versión traducida del manual en ingles.
+
 # XSearch 5.2
 ## Manual del usuario
 ## Visión General
